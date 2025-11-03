@@ -21,7 +21,7 @@ This project was conducted by the Spatial Analyst Pod in response to rising inef
 * Excel/Google Sheets
 * Tableau
 
-* ## Featured Notebooks/Analysis/Deliverables
+### Featured Notebooks/Analysis/Deliverables
 * [COOP Telecoms](https://github.com/chenweida6220/campaign-optimization-analysis/blob/main/COOP%20Data%20Analyst%20-%20Capstone.pdf)
 * [Research Paper](https://github.com/chenweida6220/campaign-optimization-analysis/blob/main/COOP%20Capstone%20Project%20-%20One%20Pager.pdf)
 * [Tableau Workbook](https://github.com/chenweida6220/campaign-optimization-analysis/tree/main/notebook)
